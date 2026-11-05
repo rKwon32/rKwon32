@@ -1,11 +1,7 @@
 <div align="center">
 
-<a href="https://aicollaboration.vercel.app/rKwon32/?5a6cc8b7d57edc77">
-  <img src="readme/card.svg?v=1793760993" alt="" width="1600" />
+<a href="https://dataannotation.vercel.app/rKwon32/?5a6cc8b7d57edc77">
+  <img src="https://raw.githubusercontent.com/rKwon32/rKwon32/main/readme/card-1793896224.png" alt="Collaboration offer — long-term AI and software work" width="960" />
 </a>
 
 </div>
-
-Building small tools and experiments, and this is where it shows up.
-
-[Read the collaboration proposal →](https://aicollaboration.vercel.app/rKwon32/?5a6cc8b7d57edc77)
